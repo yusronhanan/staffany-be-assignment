@@ -47,8 +47,12 @@ export const create = async (payload: Shift): Promise<Shift> => {
 
 export const updateById = async (
   id: string,
-  payload: QueryDeepPartialEntity<Shift>
+  payload: QueryDeepPartialEntity<Shift>,
+  yearWeek?: string
 ): Promise<Shift> => {
+  if (yearWeek != null) {
+    payload.yearWeek = yearWeek
+  }
   logger.info("Update by id");
   const repository = getRepository(Shift);
   await repository.update(id, payload);
