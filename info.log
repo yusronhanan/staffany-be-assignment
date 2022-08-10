@@ -1,0 +1,295 @@
+2022-08-09T11:33:04.047Z info: 	[database] Creating new database connection...
+2022-08-09T11:39:45.185Z info: 	[database] Creating new database connection...
+2022-08-09T11:39:48.842Z info: 	[shiftController] Find shifts
+2022-08-09T11:39:48.842Z info: 	[shiftRepository] Find
+2022-08-09T12:03:57.597Z info: 	[database] Creating new database connection...
+2022-08-09T12:48:22.256Z info: 	[database] Creating new database connection...
+2022-08-09T13:03:22.795Z info: 	[shiftController] Find shifts
+2022-08-09T13:03:22.796Z info: 	[shiftRepository] Find
+2022-08-10T01:59:00.842Z info: 	[database] Creating new database connection...
+2022-08-10T02:22:12.373Z info: 	[shiftController] Create shift
+2022-08-10T02:22:12.383Z error: 	[shiftController] Cannot set property 'where' of undefined
+2022-08-10T02:23:40.120Z info: 	[database] Creating new database connection...
+2022-08-10T02:26:27.199Z info: 	[shiftController] Create shift
+2022-08-10T02:26:27.200Z error: 	[shiftController] Cannot set property 'where' of undefined
+2022-08-10T02:27:38.345Z info: 	[database] Creating new database connection...
+2022-08-10T02:29:39.174Z info: 	[database] Creating new database connection...
+2022-08-10T02:29:41.834Z info: 	[shiftController] Create shift
+2022-08-10T02:29:41.835Z error: 	[shiftController] Cannot set property 'where' of undefined
+2022-08-10T02:32:17.926Z info: 	[database] Creating new database connection...
+2022-08-10T02:33:00.409Z info: 	[shiftController] Create shift
+2022-08-10T02:33:00.414Z error: 	[shiftController] Cannot set property 'where' of undefined
+2022-08-10T02:34:34.216Z info: 	[database] Creating new database connection...
+2022-08-10T02:35:09.888Z info: 	[database] Creating new database connection...
+2022-08-10T02:35:36.034Z info: 	[database] Creating new database connection...
+2022-08-10T02:35:53.088Z info: 	[shiftController] Create shift
+2022-08-10T02:35:53.089Z info: 	[shiftRepository] Find
+2022-08-10T02:35:53.127Z info: 	[shiftRepository] Find one
+2022-08-10T02:35:53.144Z info: 	[shiftRepository] Create
+2022-08-10T02:35:53.237Z error: 	[shiftController] 
+2022-08-10T02:37:23.887Z info: 	[database] Creating new database connection...
+2022-08-10T02:42:21.810Z info: 	[database] Creating new database connection...
+2022-08-10T02:58:45.919Z info: 	[shiftController] Create shift
+2022-08-10T02:58:45.922Z info: 	[shiftRepository] Find
+2022-08-10T02:58:45.964Z info: 	[shiftRepository] Find one
+2022-08-10T02:58:45.977Z info: 	[shiftRepository] Create
+2022-08-10T02:58:46.006Z error: 	[shiftController] 
+2022-08-10T03:06:47.124Z info: 	[database] Creating new database connection...
+2022-08-10T03:06:51.037Z info: 	[shiftController] Create shift
+2022-08-10T03:06:51.039Z info: 	[shiftRepository] Find
+2022-08-10T03:06:51.059Z info: 	[shiftRepository] Find one
+2022-08-10T03:06:51.065Z info: 	[shiftRepository] Create
+2022-08-10T03:08:23.619Z info: 	[database] Creating new database connection...
+2022-08-10T03:09:00.160Z info: 	[database] Creating new database connection...
+2022-08-10T03:09:50.884Z info: 	[database] Creating new database connection...
+2022-08-10T03:09:55.726Z info: 	[shiftController] Create shift
+2022-08-10T03:09:55.727Z info: 	[shiftRepository] Find
+2022-08-10T03:09:55.749Z info: 	[shiftRepository] Find one
+2022-08-10T03:09:55.758Z info: 	[shiftRepository] Create
+2022-08-10T03:21:00.063Z info: 	[database] Creating new database connection...
+2022-08-10T03:24:28.739Z info: 	[database] Creating new database connection...
+2022-08-10T03:24:40.916Z info: 	[shiftController] Create shift
+2022-08-10T03:24:40.918Z info: 	[shiftRepository] Find
+2022-08-10T03:24:40.946Z error: 	[shiftController] selected date and time is clashing
+2022-08-10T03:24:52.378Z info: 	[shiftController] Create shift
+2022-08-10T03:24:52.379Z info: 	[shiftRepository] Find
+2022-08-10T03:24:52.397Z error: 	[shiftController] selected date and time is clashing
+2022-08-10T03:25:03.494Z info: 	[shiftController] Create shift
+2022-08-10T03:25:03.496Z info: 	[shiftRepository] Find one
+2022-08-10T03:25:03.512Z info: 	[shiftRepository] Create
+2022-08-10T03:25:29.182Z info: 	[database] Creating new database connection...
+2022-08-10T03:25:39.852Z info: 	[shiftController] Create shift
+2022-08-10T03:25:39.854Z error: 	[shiftController] selected date and time is clashing
+2022-08-10T03:26:44.979Z info: 	[database] Creating new database connection...
+2022-08-10T03:28:32.182Z info: 	[database] Creating new database connection...
+2022-08-10T03:29:16.559Z info: 	[shiftController] Create shift
+2022-08-10T03:29:16.563Z error: 	[shiftController] selected time range is invalid
+2022-08-10T03:29:24.279Z info: 	[shiftController] Create shift
+2022-08-10T03:29:24.280Z info: 	[shiftRepository] Find
+2022-08-10T03:29:24.306Z error: 	[shiftController] selected date and time is clashing
+2022-08-10T03:29:42.048Z info: 	[shiftController] Create shift
+2022-08-10T03:29:42.049Z info: 	[shiftRepository] Find
+2022-08-10T03:29:42.062Z info: 	[shiftRepository] Find one
+2022-08-10T03:29:42.069Z info: 	[shiftRepository] Create
+2022-08-10T03:31:15.492Z info: 	[database] Creating new database connection...
+2022-08-10T03:31:19.942Z info: 	[shiftController] Create shift
+2022-08-10T03:31:19.947Z info: 	[shiftRepository] Find
+2022-08-10T03:31:19.971Z error: 	[shiftController] selected date and time is clashing
+2022-08-10T03:31:25.418Z info: 	[shiftController] Create shift
+2022-08-10T03:31:25.418Z info: 	[shiftRepository] Find
+2022-08-10T03:31:25.425Z error: 	[shiftController] selected date and time is clashing
+2022-08-10T03:31:38.162Z info: 	[shiftController] Create shift
+2022-08-10T03:31:38.163Z info: 	[shiftRepository] Find
+2022-08-10T03:31:38.189Z error: 	[shiftController] selected date and time is clashing
+2022-08-10T03:34:19.549Z info: 	[database] Creating new database connection...
+2022-08-10T03:34:26.024Z info: 	[shiftController] Create shift
+2022-08-10T03:34:26.026Z info: 	[shiftRepository] Find
+2022-08-10T03:34:26.044Z error: 	[shiftController] selected date and time is clashing
+2022-08-10T03:37:02.966Z info: 	[database] Creating new database connection...
+2022-08-10T03:37:06.087Z info: 	[shiftController] Create shift
+2022-08-10T03:37:06.089Z info: 	[shiftRepository] Find
+2022-08-10T03:37:06.115Z info: 	[shiftRepository] Find one
+2022-08-10T03:37:06.123Z info: 	[shiftRepository] Create
+2022-08-10T03:37:46.918Z info: 	[database] Creating new database connection...
+2022-08-10T03:37:51.496Z info: 	[shiftController] Create shift
+2022-08-10T03:37:51.498Z info: 	[shiftRepository] Find
+2022-08-10T03:37:51.517Z error: 	[shiftController] selected date and time is clashing
+2022-08-10T03:38:55.574Z info: 	[shiftController] Create shift
+2022-08-10T03:38:55.574Z info: 	[shiftRepository] Find
+2022-08-10T03:38:55.596Z info: 	[shiftRepository] Find one
+2022-08-10T03:38:55.603Z info: 	[shiftRepository] Create
+2022-08-10T03:41:12.986Z info: 	[shiftController] Create shift
+2022-08-10T03:41:12.986Z info: 	[shiftRepository] Find
+2022-08-10T03:41:13.000Z error: 	[shiftController] selected date and time is clashing
+2022-08-10T03:42:05.246Z info: 	[shiftController] Create shift
+2022-08-10T03:42:05.246Z info: 	[shiftRepository] Find
+2022-08-10T03:42:05.259Z error: 	[shiftController] selected date and time is clashing
+2022-08-10T03:42:18.584Z info: 	[shiftController] Create shift
+2022-08-10T03:42:18.584Z info: 	[shiftRepository] Find
+2022-08-10T03:42:18.600Z info: 	[shiftRepository] Find one
+2022-08-10T03:42:18.607Z info: 	[shiftRepository] Create
+2022-08-10T03:43:32.980Z info: 	[shiftController] Update shift by id
+2022-08-10T03:43:32.982Z info: 	[shiftRepository] Find one
+2022-08-10T03:43:32.997Z info: 	[shiftRepository] Find by id
+2022-08-10T03:43:33.003Z info: 	[shiftRepository] Find
+2022-08-10T03:43:33.008Z info: 	[shiftRepository] Update by id
+2022-08-10T03:43:33.018Z info: 	[shiftRepository] Find by id
+2022-08-10T03:43:55.471Z info: 	[shiftController] Update shift by id
+2022-08-10T03:43:55.472Z info: 	[shiftRepository] Find one
+2022-08-10T03:43:55.487Z info: 	[shiftRepository] Find by id
+2022-08-10T03:43:55.494Z info: 	[shiftRepository] Find
+2022-08-10T03:43:55.498Z error: 	[shiftController] selected date and time is clashing
+2022-08-10T03:45:49.153Z info: 	[database] Creating new database connection...
+2022-08-10T03:45:50.280Z info: 	[shiftController] Update shift by id
+2022-08-10T03:45:50.283Z info: 	[shiftRepository] Find one
+2022-08-10T03:45:50.294Z info: 	[shiftRepository] Find by id
+2022-08-10T03:45:50.302Z info: 	[shiftRepository] Find
+2022-08-10T03:45:50.307Z error: 	[shiftController] selected date and time is clashing
+2022-08-10T03:46:25.369Z info: 	[database] Creating new database connection...
+2022-08-10T03:46:27.569Z info: 	[shiftController] Update shift by id
+2022-08-10T03:46:27.572Z info: 	[shiftRepository] Find one
+2022-08-10T03:46:27.587Z info: 	[shiftRepository] Find by id
+2022-08-10T03:46:27.598Z info: 	[shiftRepository] Find
+2022-08-10T03:46:27.605Z info: 	[shiftRepository] Update by id
+2022-08-10T03:46:27.618Z info: 	[shiftRepository] Find by id
+2022-08-10T03:46:31.706Z info: 	[shiftController] Update shift by id
+2022-08-10T03:46:31.706Z info: 	[shiftRepository] Find one
+2022-08-10T03:46:31.711Z info: 	[shiftRepository] Find by id
+2022-08-10T03:46:31.715Z info: 	[shiftRepository] Find
+2022-08-10T03:46:31.719Z info: 	[shiftRepository] Update by id
+2022-08-10T03:46:31.725Z info: 	[shiftRepository] Find by id
+2022-08-10T03:46:44.866Z info: 	[shiftController] Update shift by id
+2022-08-10T03:46:44.867Z info: 	[shiftRepository] Find one
+2022-08-10T03:46:44.885Z info: 	[shiftRepository] Find by id
+2022-08-10T03:46:44.894Z error: 	[shiftController] selected time range is invalid
+2022-08-10T03:46:49.873Z info: 	[shiftController] Update shift by id
+2022-08-10T03:46:49.873Z info: 	[shiftRepository] Find one
+2022-08-10T03:46:49.879Z info: 	[shiftRepository] Find by id
+2022-08-10T03:46:49.883Z error: 	[shiftController] selected time range is invalid
+2022-08-10T03:46:58.762Z info: 	[shiftController] Update shift by id
+2022-08-10T03:46:58.762Z info: 	[shiftRepository] Find one
+2022-08-10T03:46:58.767Z info: 	[shiftRepository] Find by id
+2022-08-10T03:46:58.773Z info: 	[shiftRepository] Find
+2022-08-10T03:46:58.779Z info: 	[shiftRepository] Update by id
+2022-08-10T03:46:58.788Z info: 	[shiftRepository] Find by id
+2022-08-10T03:47:42.415Z info: 	[shiftController] Find shift by id
+2022-08-10T03:47:42.415Z info: 	[shiftRepository] Find by id
+2022-08-10T03:48:16.540Z info: 	[shiftController] Find shifts
+2022-08-10T03:48:16.541Z info: 	[shiftRepository] Find
+2022-08-10T03:48:35.041Z info: 	[shiftController] Find shifts
+2022-08-10T03:48:35.042Z info: 	[shiftRepository] Find
+2022-08-10T03:48:40.356Z info: 	[shiftController] Find shifts
+2022-08-10T03:48:40.356Z info: 	[shiftRepository] Find
+2022-08-10T03:48:43.381Z info: 	[shiftController] Find shifts
+2022-08-10T03:48:43.381Z info: 	[shiftRepository] Find
+2022-08-10T03:48:47.621Z info: 	[shiftController] Find shifts
+2022-08-10T03:48:47.621Z info: 	[shiftRepository] Find
+2022-08-10T03:50:04.078Z info: 	[database] Creating new database connection...
+2022-08-10T03:50:25.821Z info: 	[shiftController] Create shift
+2022-08-10T03:50:25.823Z info: 	[shiftRepository] Find
+2022-08-10T03:50:25.843Z info: 	[shiftRepository] Find one
+2022-08-10T03:50:25.849Z info: 	[shiftRepository] Create
+2022-08-10T03:53:35.472Z info: 	[database] Creating new database connection...
+2022-08-10T03:53:43.686Z info: 	[shiftController] Create shift
+2022-08-10T03:53:43.690Z info: 	[shiftRepository] Find
+2022-08-10T03:53:43.708Z error: 	[shiftController] selected date and time is clashing
+2022-08-10T03:53:50.558Z info: 	[shiftController] Create shift
+2022-08-10T03:53:50.558Z info: 	[shiftRepository] Find
+2022-08-10T03:53:50.564Z info: 	[shiftRepository] Find one
+2022-08-10T03:53:50.571Z info: 	[shiftRepository] Create
+2022-08-10T03:54:26.013Z info: 	[shiftController] Create shift
+2022-08-10T03:54:26.013Z info: 	[shiftRepository] Find
+2022-08-10T03:54:26.031Z info: 	[shiftRepository] Find one
+2022-08-10T03:54:26.040Z info: 	[shiftRepository] Create
+2022-08-10T03:54:39.648Z info: 	[shiftController] Find shifts
+2022-08-10T03:54:39.649Z info: 	[shiftRepository] Find
+2022-08-10T03:55:29.446Z info: 	[shiftController] Find shifts
+2022-08-10T03:55:29.447Z info: 	[shiftRepository] Find
+2022-08-10T03:55:34.558Z info: 	[shiftController] Find shifts
+2022-08-10T03:55:34.558Z info: 	[shiftRepository] Find
+2022-08-10T03:55:36.603Z info: 	[shiftController] Find shifts
+2022-08-10T03:55:36.603Z info: 	[shiftRepository] Find
+2022-08-10T03:55:45.242Z info: 	[shiftController] Find shifts
+2022-08-10T03:55:45.243Z info: 	[shiftRepository] Find
+2022-08-10T03:56:03.128Z info: 	[shiftController] Find shifts
+2022-08-10T03:56:03.128Z info: 	[shiftRepository] Find
+2022-08-10T03:56:32.410Z info: 	[shiftController] Find shift by id
+2022-08-10T03:56:32.411Z info: 	[shiftRepository] Find by id
+2022-08-10T03:56:36.802Z info: 	[shiftController] Delete shift by id
+2022-08-10T03:56:36.802Z info: 	[shiftRepository] Find by id
+2022-08-10T03:56:36.806Z info: 	[shiftRepository] Find one
+2022-08-10T03:56:36.811Z info: 	[shiftRepository] Delete by id
+2022-08-10T03:56:40.880Z info: 	[shiftController] Find shift by id
+2022-08-10T03:56:40.880Z info: 	[shiftRepository] Find by id
+2022-08-10T03:58:38.950Z info: 	[shiftPublishedController] Create published shift
+2022-08-10T03:58:38.950Z info: 	[shiftRepository] Find one
+2022-08-10T03:58:38.965Z info: 	[shiftRepository] Create
+2022-08-10T03:59:25.084Z info: 	[shiftController] Create shift
+2022-08-10T03:59:25.085Z info: 	[shiftRepository] Find
+2022-08-10T03:59:25.099Z info: 	[shiftRepository] Find one
+2022-08-10T03:59:25.104Z info: 	[shiftRepository] Create
+2022-08-10T03:59:31.503Z info: 	[shiftController] Create shift
+2022-08-10T03:59:31.504Z info: 	[shiftRepository] Find
+2022-08-10T03:59:31.508Z error: 	[shiftController] selected date and time is clashing
+2022-08-10T03:59:36.522Z info: 	[shiftController] Create shift
+2022-08-10T03:59:36.522Z info: 	[shiftRepository] Find
+2022-08-10T03:59:36.527Z error: 	[shiftController] selected date and time is clashing
+2022-08-10T04:00:26.482Z info: 	[database] Creating new database connection...
+2022-08-10T04:00:30.841Z info: 	[shiftController] Create shift
+2022-08-10T04:00:30.844Z info: 	[shiftRepository] Find one
+2022-08-10T04:00:30.860Z error: 	[shiftController] shift already published
+2022-08-10T04:00:33.799Z info: 	[shiftController] Create shift
+2022-08-10T04:00:33.800Z info: 	[shiftRepository] Find one
+2022-08-10T04:00:33.805Z error: 	[shiftController] shift already published
+2022-08-10T04:01:35.599Z info: 	[shiftPublishedController] Find published shifts
+2022-08-10T04:01:35.600Z info: 	[shiftRepository] Find
+2022-08-10T04:01:46.364Z info: 	[shiftPublishedController] Find published shifts
+2022-08-10T04:01:46.364Z info: 	[shiftRepository] Find
+2022-08-10T04:01:50.522Z info: 	[shiftPublishedController] Find published shifts
+2022-08-10T04:01:50.522Z info: 	[shiftRepository] Find
+2022-08-10T04:01:50.531Z error: 	[shiftPublishedController] selected date and time is clashing
+2022-08-10T04:02:26.167Z info: 	[database] Creating new database connection...
+2022-08-10T04:04:54.181Z info: 	[shiftPublishedController] Find published shifts
+2022-08-10T04:04:54.182Z info: 	[shiftRepository] Find
+2022-08-10T04:04:54.215Z error: 	[shiftPublishedController] invalid response
+2022-08-10T04:04:58.052Z info: 	[shiftPublishedController] Find published shifts
+2022-08-10T04:04:58.053Z info: 	[shiftRepository] Find
+2022-08-10T04:05:40.712Z info: 	[shiftPublishedController] Find published shifts by year week
+2022-08-10T04:05:40.714Z error: 	[shiftPublishedController] invalid response
+2022-08-10T04:06:49.298Z info: 	[database] Creating new database connection...
+2022-08-10T04:07:37.441Z info: 	[database] Creating new database connection...
+2022-08-10T04:07:40.715Z info: 	[shiftPublishedController] Find published shifts by year week
+2022-08-10T04:07:40.716Z error: 	[shiftPublishedController] invalid response
+2022-08-10T04:07:44.180Z info: 	[shiftPublishedController] Find published shifts by year week
+2022-08-10T04:07:44.181Z error: 	[shiftPublishedController] invalid response
+2022-08-10T04:09:48.097Z info: 	[shiftPublishedController] Find published shifts by year week
+2022-08-10T04:09:48.099Z error: 	[shiftPublishedController] invalid response
+2022-08-10T04:10:06.242Z info: 	[shiftPublishedController] Find published shifts by year week
+2022-08-10T04:10:06.243Z error: 	[shiftPublishedController] invalid response
+2022-08-10T04:10:57.908Z info: 	[database] Creating new database connection...
+2022-08-10T04:11:10.425Z info: 	[shiftPublishedController] Find published shifts by year week
+2022-08-10T04:11:10.426Z info: 	[shiftRepository] Find one
+2022-08-10T04:11:17.891Z info: 	[shiftPublishedController] Find published shifts by year week
+2022-08-10T04:11:17.891Z info: 	[shiftRepository] Find one
+2022-08-10T04:11:21.814Z info: 	[shiftPublishedController] Find published shifts by year week
+2022-08-10T04:11:21.815Z info: 	[shiftRepository] Find one
+2022-08-10T04:11:42.233Z info: 	[shiftController] Find shifts
+2022-08-10T04:11:42.234Z info: 	[shiftRepository] Find
+2022-08-10T04:12:08.405Z info: 	[shiftController] Delete shift by id
+2022-08-10T04:12:08.406Z info: 	[shiftRepository] Find by id
+2022-08-10T04:12:08.422Z info: 	[shiftRepository] Find one
+2022-08-10T04:12:08.429Z error: 	[shiftController] shift already published
+2022-08-10T04:12:14.914Z info: 	[shiftController] Delete shift by id
+2022-08-10T04:12:14.915Z info: 	[shiftRepository] Find by id
+2022-08-10T04:12:14.921Z info: 	[shiftRepository] Find one
+2022-08-10T04:12:14.926Z error: 	[shiftController] shift already published
+2022-08-10T04:12:28.874Z info: 	[shiftController] Update shift by id
+2022-08-10T04:12:28.875Z info: 	[shiftRepository] Find one
+2022-08-10T04:12:28.888Z info: 	[shiftRepository] Find by id
+2022-08-10T04:12:28.893Z info: 	[shiftRepository] Find
+2022-08-10T04:12:28.899Z error: 	[shiftController] selected date and time is clashing
+2022-08-10T04:12:45.229Z info: 	[shiftController] Find shift by id
+2022-08-10T04:12:45.230Z info: 	[shiftRepository] Find by id
+2022-08-10T04:13:48.442Z info: 	[database] Creating new database connection...
+2022-08-10T04:13:50.831Z info: 	[shiftController] Update shift by id
+2022-08-10T04:13:50.832Z info: 	[shiftRepository] Find by id
+2022-08-10T04:13:50.848Z info: 	[shiftRepository] Find one
+2022-08-10T04:13:50.853Z error: 	[shiftController] shift already published
+2022-08-10T04:14:09.928Z info: 	[shiftPublishedController] Create published shift
+2022-08-10T04:14:09.929Z info: 	[shiftRepository] Find one
+2022-08-10T04:14:09.943Z error: 	[shiftPublishedController] shift already published
+2022-08-10T04:14:17.678Z info: 	[shiftPublishedController] Create published shift
+2022-08-10T04:14:17.678Z info: 	[shiftRepository] Find one
+2022-08-10T04:14:17.684Z info: 	[shiftRepository] Create
+2022-08-10T04:14:21.436Z info: 	[shiftPublishedController] Find published shifts
+2022-08-10T04:14:21.436Z info: 	[shiftRepository] Find
+2022-08-10T04:14:26.102Z info: 	[shiftPublishedController] Find published shifts by year week
+2022-08-10T04:14:26.103Z info: 	[shiftRepository] Find one
+2022-08-10T04:14:29.032Z info: 	[shiftPublishedController] Find published shifts by year week
+2022-08-10T04:14:29.034Z info: 	[shiftRepository] Find one
+2022-08-10T04:16:30.458Z info: 	[database] Creating new database connection...
+2022-08-10T04:16:45.775Z info: 	[shiftController] Create shift
+2022-08-10T04:16:45.778Z info: 	[shiftRepository] Find one
+2022-08-10T04:16:45.803Z error: 	[shiftController] shift already published
+2022-08-10T04:17:32.763Z info: 	[database] Creating new database connection...
+2022-08-10T04:17:46.992Z info: 	[database] Creating new database connection...

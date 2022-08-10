@@ -13,7 +13,7 @@ export default function (server: Server, basePath: string) {
       tags: ['api', 'shift']
     }
   });
-  
+
   server.route({
     method: "GET",
     path: basePath + "/{id}",
@@ -27,7 +27,7 @@ export default function (server: Server, basePath: string) {
       },
     }
   });
-  
+
   server.route({
     method: "POST",
     path: basePath,
@@ -41,7 +41,7 @@ export default function (server: Server, basePath: string) {
       },
     }
   });
-  
+
   server.route({
     method: "PATCH",
     path: basePath + "/{id}",

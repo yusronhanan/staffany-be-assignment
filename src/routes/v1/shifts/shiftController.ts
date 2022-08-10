@@ -3,6 +3,7 @@ import * as shiftUsecase from "../../../usecases/shiftUsecase";
 import { errorHandler } from "../../../shared/functions/error";
 import {
   ICreateShift,
+  IEitherDataOrFailure,
   ISuccessResponse,
   IUpdateShift,
 } from "../../../shared/interfaces";
@@ -14,11 +15,14 @@ export const find = async (req: Request, h: ResponseToolkit) => {
   logger.info("Find shifts");
   try {
     const filter = req.query;
-    const data = await shiftUsecase.find(filter);
+    const eitherDataOrFailure: IEitherDataOrFailure<any> = await shiftUsecase.find(filter);
+    if (eitherDataOrFailure.error != null) {
+      throw new Error(eitherDataOrFailure.error);
+    }
     const res: ISuccessResponse = {
       statusCode: 200,
       message: "Get shift successful",
-      results: data,
+      results: eitherDataOrFailure.data,
     };
     return res;
   } catch (error) {
@@ -31,11 +35,14 @@ export const findById = async (req: Request, h: ResponseToolkit) => {
   logger.info("Find shift by id");
   try {
     const id = req.params.id;
-    const data = await shiftUsecase.findById(id);
+    const eitherDataOrFailure: IEitherDataOrFailure<any> = await shiftUsecase.findById(id);
+    if (eitherDataOrFailure.error != null) {
+      throw new Error(eitherDataOrFailure.error);
+    }
     const res: ISuccessResponse = {
       statusCode: 200,
       message: "Get shift successful",
-      results: data,
+      results: eitherDataOrFailure.data,
     };
     return res;
   } catch (error) {
@@ -48,11 +55,14 @@ export const create = async (req: Request, h: ResponseToolkit) => {
   logger.info("Create shift");
   try {
     const body = req.payload as ICreateShift;
-    const data = await shiftUsecase.create(body);
+    const eitherDataOrFailure: IEitherDataOrFailure<any> = await shiftUsecase.create(body);
+    if (eitherDataOrFailure.error != null) {
+      throw new Error(eitherDataOrFailure.error);
+    }
     const res: ISuccessResponse = {
       statusCode: 200,
       message: "Create shift successful",
-      results: data,
+      results: eitherDataOrFailure.data,
     };
     return res;
   } catch (error) {
@@ -67,11 +77,14 @@ export const updateById = async (req: Request, h: ResponseToolkit) => {
     const id = req.params.id;
     const body = req.payload as IUpdateShift;
 
-    const data = await shiftUsecase.updateById(id, body);
+    const eitherDataOrFailure: IEitherDataOrFailure<any> = await shiftUsecase.updateById(id, body);
+    if (eitherDataOrFailure.error != null) {
+      throw new Error(eitherDataOrFailure.error);
+    }
     const res: ISuccessResponse = {
       statusCode: 200,
       message: "Update shift successful",
-      results: data,
+      results: eitherDataOrFailure.data,
     };
     return res;
   } catch (error) {
@@ -84,11 +97,14 @@ export const deleteById = async (req: Request, h: ResponseToolkit) => {
   logger.info("Delete shift by id");
   try {
     const id = req.params.id;
-    const data = await shiftUsecase.deleteById(id);
+    const eitherDataOrFailure: IEitherDataOrFailure<any> = await shiftUsecase.deleteById(id);
+    if (eitherDataOrFailure.error != null) {
+      throw new Error(eitherDataOrFailure.error);
+    }
     const res: ISuccessResponse = {
       statusCode: 200,
       message: "Delete shift successful",
-      results: data,
+      results: eitherDataOrFailure.data,
     };
     return res;
   } catch (error) {
