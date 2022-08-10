@@ -1,4 +1,4 @@
-import { Column, Entity, PrimaryGeneratedColumn } from "typeorm";
+import { Column, Entity, PrimaryGeneratedColumn, Index } from "typeorm";
 import { BaseTimestamp } from "./baseTimestamp";
 
 @Entity()
@@ -23,4 +23,8 @@ export default class Shift extends BaseTimestamp {
     type: "time",
   })
   endTime: string;
+
+  @Index("idx_shift_year_week")
+  @Column()
+  yearWeek: string;
 }

@@ -10,5 +10,11 @@ export interface IUpdateShift {
   date?: string;
   startTime?: string;
   endTime?: string;
-  weekId? : string;
+  weekId?: string;
+}
+
+export interface IPayloadIsClashing {
+  date: string;
+  startTime: string;
+  endTime: string;
 }
